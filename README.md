@@ -10,14 +10,13 @@ Prueba de template para retos de Estudiantes
 
 
 
-
 ### Lección ###
 
 
 
 ### Instrucciones ###
 
-1.
+1. ESTOY RESOLVIENDO ESTE RETO.
 2.
 3.
 4.
